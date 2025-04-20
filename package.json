@@ -16,7 +16,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "autoprefixer": "^10.4.14",
-    "chart.js": "^4.4.0",
+    "chart.js": "^3.9.1",
     "classnames": "^2.3.2",
     "jspdf": "^2.5.1",
     "pdfmake": "^0.2.7",
